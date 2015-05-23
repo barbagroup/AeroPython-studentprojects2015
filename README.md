@@ -13,3 +13,4 @@ when the project is good!
 1. [Vortex lattice method](http://nbviewer.ipython.org/github/barbagroup/AeroPython-studentprojects/blob/master/Bell_Christopher/VLM.ipynb), by Christopher Bell
 2. [The effect of flap deflection wit a Junkers flap](http://nbviewer.ipython.org/github/barbagroup/AeroPython-studentprojects/blob/master/cparvini/FlapNotebook.ipynb), by Cameron Parvini
 3. [Case study of Wing in Ground Effect with XFLR5: the A-90 Orlyonok (Орлёнок) Ekranoplan](http://nbviewer.ipython.org/github/barbagroup/AeroPython-studentprojects/blob/master/GeorgeTeel/Orlyonok%20Ekranoplan.ipynb), by George Teel
+4. [The evolution of Boeing's 707 airliner: panel method applied to a family of B707 airfoils](http://nbviewer.ipython.org/github/barbagroup/AeroPython-studentprojects/blob/master/Bornemeier/Final%20Project.ipynb), by Matt Bornemeier
