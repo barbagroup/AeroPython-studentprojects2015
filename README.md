@@ -16,3 +16,10 @@ when the project is good!
 4. [The evolution of Boeing's 707 airliner: panel method applied to a family of B707 airfoils](http://nbviewer.ipython.org/github/barbagroup/AeroPython-studentprojects/blob/master/Bornemeier/Final%20Project.ipynb), by Matt Bornemeier
 5. [Ground Effect with a Vortex Panel Method](http://nbviewer.ipython.org/github/barbagroup/AeroPython-studentprojects/blob/master/Ground-Effect-in-Vortex-Panel-Method/Ground-Effect-in-Vortex-Panel-Method.ipynb), by Tingyu Wang
 6. [Further Study of Constant-Strength-Singularity Panel Methods](http://nbviewer.ipython.org/github/barbagroup/AeroPython-studentprojects/blob/master/Project%20-%20Michael%20J%20Carter/Project%20-%20Michael%20J%20Carter.ipynb), by Michael J. Carter
+
+### Spring 2014
+
+* [Limitations of Inviscid Panel Method](http://nbviewer.ipython.org/github/LTChaseJohnson/MAE6226/blob/master/final%20project.ipynb), Chase Johnson
+* [Pterosaur wings: effect of the wing-tip twist on center-of-pressure location](http://nbviewer.ipython.org/github/colinparker/Pterosaur/blob/master/parker_pterosaur.ipynb) (following Palmer & Dyke, 2012; using XFLR)
+* [Boundary Layer Correction in Panel Methods](http://nbviewer.ipython.org/github/iancarr/AeroHydro/blob/master/final-project/BoundaryLayerCorrection.ipynb), Ian Carr.
+* [Stokes Flow with a Boundary Element Method](http://nbviewer.ipython.org/github/arm6226/mae6226/blob/master/project/MAE6226%20Project.ipynb), Abhilash Malipeddi
